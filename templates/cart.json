@@ -39,6 +39,26 @@
         "padding_bottom": 40
       }
     },
+    "1748971403406ee587": {
+      "type": "apps",
+      "blocks": {
+        "pickup_points_pro_map_cart_widget_CrPEyC": {
+          "type": "shopify://apps/pickup-points-pro/blocks/map_cart_widget/005581db-53ad-477a-b330-60f483c76b50",
+          "settings": {
+            "country_selector_text": "Select your shipping country:",
+            "opening_button_text": "Choose pickup point on map",
+            "additional_info_text": "If you want to choose a different delivery method than the pickup point, please skip this step and select your preferred option at the checkout.",
+            "widget_background": "#fafafa"
+          }
+        }
+      },
+      "block_order": [
+        "pickup_points_pro_map_cart_widget_CrPEyC"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -67,13 +87,13 @@
         "padding_bottom": 36
       }
     },
-    "1748971403406ee587": {
+    "177014278004c92e0b": {
       "type": "apps",
       "blocks": {
-        "pickup_points_pro_map_cart_widget_CrPEyC": {
+        "pickup_points_pro_map_cart_widget_efky7G": {
           "type": "shopify://apps/pickup-points-pro/blocks/map_cart_widget/005581db-53ad-477a-b330-60f483c76b50",
           "settings": {
-            "country_selector_text": "Select your shipping country:",
+            "country_selector_text": "Wybierz swój kraj wysyłki",
             "opening_button_text": "Choose pickup point on map",
             "additional_info_text": "If you want to choose a different delivery method than the pickup point, please skip this step and select your preferred option at the checkout.",
             "widget_background": "#FAFAFA"
@@ -81,7 +101,7 @@
         }
       },
       "block_order": [
-        "pickup_points_pro_map_cart_widget_CrPEyC"
+        "pickup_points_pro_map_cart_widget_efky7G"
       ],
       "settings": {
         "include_margins": true
@@ -92,6 +112,7 @@
     "cart-items",
     "cart-footer",
     "1748971403406ee587",
-    "featured-collection"
+    "featured-collection",
+    "177014278004c92e0b"
   ]
 }
