@@ -41,20 +41,6 @@
     },
     "1748971403406ee587": {
       "type": "apps",
-      "blocks": {
-        "pickup_points_pro_map_cart_widget_CrPEyC": {
-          "type": "shopify://apps/pickup-points-pro/blocks/map_cart_widget/005581db-53ad-477a-b330-60f483c76b50",
-          "settings": {
-            "country_selector_text": "kurwaaaaaaaaaaaaaaaa",
-            "opening_button_text": "Choose pickup point on map",
-            "additional_info_text": "If you want to choose a different delivery method than the pickup point, please skip this step and select your preferred option at the checkout.",
-            "widget_background": "#fafafa"
-          }
-        }
-      },
-      "block_order": [
-        "pickup_points_pro_map_cart_widget_CrPEyC"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -87,6 +73,26 @@
         "padding_bottom": 36
       }
     },
+    "1770142991d05c4fd0": {
+      "type": "apps",
+      "blocks": {
+        "pickup_points_pro_map_cart_widget_E8VzYr": {
+          "type": "shopify://apps/pickup-points-pro/blocks/map_cart_widget/005581db-53ad-477a-b330-60f483c76b50",
+          "settings": {
+            "country_selector_text": "Select your shipping country:",
+            "opening_button_text": "Choose pickup point on map",
+            "additional_info_text": "If you want to choose a different delivery method than the pickup point, please skip this step and select your preferred option at the checkout.",
+            "widget_background": "#FAFAFA"
+          }
+        }
+      },
+      "block_order": [
+        "pickup_points_pro_map_cart_widget_E8VzYr"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "177014278004c92e0b": {
       "type": "apps",
       "blocks": {
@@ -113,6 +119,7 @@
     "cart-footer",
     "1748971403406ee587",
     "featured-collection",
+    "1770142991d05c4fd0",
     "177014278004c92e0b"
   ]
 }
